@@ -17,6 +17,9 @@ $primary: #32c3ff;
 
 // --------------------
 // Style reusable for all components
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
 body {
   margin: 0;
   padding: 0;
